@@ -11,7 +11,7 @@ body{
 	text-align: right;
 }
 .bg-dark{
-	background-color:#364c57 !important;
+	background-color:#10c6de !important;
 }
 .navbar-dark .navbar-nav .nav-item{
 	margin: 0 15px;
@@ -96,6 +96,5 @@ p{
   }
 
   .welcome-carousel-image2{
-    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
     background-image:url('../images/carousel2.jpg');
   }
