@@ -11,7 +11,7 @@ body{
 	text-align: right;
 }
 .bg-dark{
-	background-color:#10c6de !important;
+	background-color:#27c3d9 !important;
 }
 .navbar-dark .navbar-nav .nav-item{
 	margin: 0 15px;
@@ -79,8 +79,8 @@ p{
   }
   
   .carousel-caption {
-    bottom: 3rem;
-    z-index: 10 ;
+    bottom: 6rem;
+    
   }
 
   .carousel-item {
@@ -88,13 +88,15 @@ p{
     max-width: 100vw;
     background-size: cover;
     background-position: center center;
-    background-repeat: no-repeat;
   }
   .welcome-carousel-image1{
-    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
     background-image:url('../images/carousel1.jpg');
   }
 
   .welcome-carousel-image2{
     background-image:url('../images/carousel2.jpg');
   }
+.product{
+	padding: 35px 0;
+	margin: 35px 0;
+}
